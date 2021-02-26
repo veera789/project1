@@ -4,6 +4,7 @@ def func(arg):
     :param arg: taking args
     :return: returning square
     """
-    return arg*arg
+    x = arg*arg
+    return x
 
 print(func(20))
